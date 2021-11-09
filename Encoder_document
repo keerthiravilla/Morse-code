@@ -1,0 +1,26 @@
+In the past times when communications were not as simple as today, one of the most common ways of communicating was Samuel Morse method called “Morse code“.
+In this method, each letter or number represents by using short (dot) and long (dash) elements.
+
+Morse code, like any other language, has its own alphabet and is currently available in both American and International types, and the most commonly used one is international type.
+
+Morse code can be transmitted in different ways: originally as electrical pulses along a telegraph wire, but also as an audio tone, a radio signal, light, body language, frequency and more. Imagine the dot as a unit of time, then the dash is three units of time, the distance between the parts of a letter is a unit of time, the distance between two consecutive letters is three units of time, and the distance between the words is seven units of time.
+
+For instance the word SOS, the worldwide standard for requesting help is … — … in Morse code.
+
+Try to write your name in Morse code for practice.
+
+Electropeak =..-... -.-. –.-. —.–...- -.-
+
+Although Morse code is not used as much as the past anymore, it still has its own applications. Morse code is still popular among enthusiasts in the field of amateur radios. 
+Morse code is also used in aeronautical navigation systems.Many ships use Morse code to send light for communication or help. Also, those who can not talk for any reason can also use Morse code to express their meaning.
+
+And besides all, learning and using Morse code to communicate can be fun and entertaining.
+
+This are the components that are required for encoding the morse code using circuit..,
+  1. Arduino UNO R3
+  2. ElectroPeak Active Buzzer
+  3. Jumpwires
+  4. LED
+  
+Here we used Arduino UNO to translate a text to Morse code. Upload this code on your Arduino board and open your serial monitor window. Type your desired word or text and receive it in Morse code,
+then you can send it as light and sound.
